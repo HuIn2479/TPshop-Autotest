@@ -1,4 +1,10 @@
-*.log
-temp/
-.vscode/
 .idea/
+*.iml
+*.ipr
+*.iws
+__pycache__/
+*.pyc
+*.log
+node_modules/
+venv/
+/test_case/cookie.json
