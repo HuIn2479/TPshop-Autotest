@@ -1,3 +1,4 @@
 .idea/
 /test_case/cookie.json
 .pytest_cache
+/test_report/*
